@@ -54,6 +54,9 @@ const mensagensDeErro = {
     },
     estado: {
         valueMissing: 'O campo de estado não pode estar vazio'
+    },
+    preco: {
+        valueMissing: 'O campo de reço não pode estar vazio.'
     }
 }
 
